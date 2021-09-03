@@ -1,0 +1,31 @@
+ㅁ<ol>
+-Ordered lists
+
+ㅁ<ul>
+-Unordered list
+
+ㅁ<li>
+-ol, ul태그의 자식태그
+
+ㅁ<title>
+-웹의 제목
+
+ㅁ<meta charset="utf-8">
+-UTF-8로 문서를 읽기 ==> 한글 출력 가능
+
+ㅁhtml 기본 구조
+<!doctype html>
+	<head>
+	</head>
+	<body>
+	</body>
+</html>
+
+ㅁ링크
+<a href="https://www.w3.org/TR/html52/" target="_blank" title="html5.2 Specification">
+-href
+ ㄴ링크넣기
+-target="_blank"
+ ㄴ링크를 클릭하면 새 탭으로 이동
+-title
+ ㄴ링크 설명
